@@ -39,6 +39,7 @@ extractor.print_data(data)
 ```
 
 ![Indonesia](https://github.com/user-attachments/assets/6b1d55ad-52b3-48bb-b50d-be701d1bc5a3)
+![](images/Indonesia.jpg)
 
 
 ```
