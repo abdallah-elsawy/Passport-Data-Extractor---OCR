@@ -37,7 +37,7 @@ extractor = PassportDataExtractor(country_codes_file)
 data = extractor.get_data(img_name)
 extractor.print_data(data)
 
-![Image](images/Indonesia.jpg)
+![Indonesia](https://github.com/user-attachments/assets/6b1d55ad-52b3-48bb-b50d-be701d1bc5a3)
 
 
 ```output
