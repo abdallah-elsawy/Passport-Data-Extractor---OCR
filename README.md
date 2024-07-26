@@ -37,3 +37,18 @@ extractor = PassportDataExtractor(country_codes_file)
 data = extractor.get_data(img_name)
 extractor.print_data(data)
 
+![Image](images/Indonesia.jpg)
+
+
+```output
+
+Name	:	NAMA LENGKAP
+Date of birth	:	17/08/1945
+Date of expiry	:	26/01/2016
+Nationality	:	Indonesia
+Passport type	:	P
+Passport number	:	X00000O
+Authority	:	
+Date of issue	:	26/01/2011
+
+
