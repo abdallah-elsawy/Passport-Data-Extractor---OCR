@@ -29,7 +29,7 @@ class PassportDataExtractor:
         except ValueError:
             return None
 
-      def parse_date(self, date_string):
+    def parse_date(self, date_string):
         try:
             # Parse the date assuming the year is in the range 1900-2099
             date = parser.parse(date_string, yearfirst=True).date()
