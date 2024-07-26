@@ -9,13 +9,13 @@ The project has the following structure:
 
 passport-data-extractor/
 ├── data/
-│ └── CC.json # Country codes data
+│ └── CC.json
 ├── images/
-│ └── Iceland.jpg # Example passport image
-├── passport_data_extractor.py # Main script for extracting passport data
-├── README.md # This file
-├── requirements.txt # List of required Python packages
-└── .gitignore # Specifies files to be ignored by Git
+│ └── Iceland.jpg
+├── passport_data_extractor.py
+├── README.md
+├── requirements.txt
+└── .gitignore
 
 ## Features
 - Extracts data from the MRZ (Machine Readable Zone) of the passport.
