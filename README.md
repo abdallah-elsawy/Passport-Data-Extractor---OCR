@@ -8,14 +8,15 @@ This project is a Python application for extracting data from passport images. I
 The project has the following structure:
 
 passport-data-extractor/
-├── data/
-│ └── CC.json
-├── images/
-│ └── Iceland.jpg
-├── passport_data_extractor.py
-├── README.md
-├── requirements.txt
-└── .gitignore
+
+├── data/ 
+│ └── CC.json 
+├── images/ 
+│ └── Iceland.jpg 
+├── passport_data_extractor.py 
+├── README.md 
+├── requirements.txt 
+└── .gitignore 
 
 ## Features
 - Extracts data from the MRZ (Machine Readable Zone) of the passport.
