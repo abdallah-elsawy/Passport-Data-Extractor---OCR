@@ -32,7 +32,7 @@ This project is a Python application for extracting data from passport images. I
 ## Example
 ```python
 country_codes_file = 'data/CC.json'
-img_name = 'images/Iceland.jpg'
+img_name = 'images/Indonesia.jpg'
 extractor = PassportDataExtractor(country_codes_file)
 data = extractor.get_data(img_name)
 extractor.print_data(data)
