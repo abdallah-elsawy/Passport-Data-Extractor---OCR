@@ -46,12 +46,12 @@ extractor.print_data(data)
 
 Name	:	NAMA LENGKAP
 Date of birth	:	17/08/1945
+Date of issue	:	26/01/2011
 Date of expiry	:	26/01/2016
+Authority	:	
 Nationality	:	Indonesia
 Passport type	:	P
 Passport number	:	X00000O
-Authority	:	
-Date of issue	:	26/01/2011
 ```
 
 
