@@ -42,7 +42,7 @@ extractor.print_data(data)
 
 
 ```
-* output
+# Output
 
 Name	:	NAMA LENGKAP
 Date of birth	:	17/08/1945
