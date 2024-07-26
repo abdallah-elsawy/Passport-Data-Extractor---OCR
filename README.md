@@ -1,5 +1,21 @@
 # Passport-Data-Extractor-OCR
-This project extracts information from passport images using OCR (Optical Character Recognition) techniques.
+## Project Overview
+
+This project is a Python application for extracting data from passport images. It utilizes Optical Character Recognition (OCR) to read information from Machine Readable Zones (MRZ) and other parts of the passport.
+
+## Project Structure
+
+The project has the following structure:
+
+passport-data-extractor/
+├── data/
+│ └── CC.json # Country codes data
+├── images/
+│ └── Iceland.jpg # Example passport image
+├── passport_data_extractor.py # Main script for extracting passport data
+├── README.md # This file
+├── requirements.txt # List of required Python packages
+└── .gitignore # Specifies files to be ignored by Git
 
 ## Features
 - Extracts data from the MRZ (Machine Readable Zone) of the passport.
