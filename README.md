@@ -9,7 +9,7 @@ The project has the following structure:
 
 passport-data-extractor/
 
-├── data/ 
+├── data/
 │ └── CC.json 
 ├── images/ 
 │ └── Iceland.jpg 
