@@ -36,6 +36,7 @@ img_name = 'images/Iceland.jpg'
 extractor = PassportDataExtractor(country_codes_file)
 data = extractor.get_data(img_name)
 extractor.print_data(data)
+```
 
 ![Indonesia](https://github.com/user-attachments/assets/6b1d55ad-52b3-48bb-b50d-be701d1bc5a3)
 
@@ -50,5 +51,6 @@ Passport type	:	P
 Passport number	:	X00000O
 Authority	:	
 Date of issue	:	26/01/2011
+```
 
 
